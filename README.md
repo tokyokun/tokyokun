@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tokyokun
-- 👀 I’m interested in computer science.
+- 👀 I’m interested in python, java, and c++.
 - 🌱 I’m currently learning javascript in highschool, and wanting to learn python as of right now.
 - 📫 How to reach me contact me on my email cjcucio69@gmail.com or try messaging me on instagram @christian.cucio.
 
